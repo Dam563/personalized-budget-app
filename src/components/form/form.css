@@ -1,0 +1,31 @@
+
+
+form{
+    margin-top: 50px;
+    width: 35rem;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid grey;
+    border-radius: 5px;
+    padding: 30px;
+}
+input{
+    padding: 10px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    background-color: white;
+     margin-right: 10px;
+}
+button{
+    padding: 10px;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+.btn-disabled{
+    background-color: grey;
+    color: white;
+}
+.btn-success{
+    background-color: green;
+    color: white;
+}
